@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Click Behavior</string>
+    <string name="lemon_tree_screen">Tap the lemon tree to select a lemon</string>
+    <string name="lemon_squeeze_screen">Keep tapping the lemon to squeeze it</string>
+    <string name="lemon_drink_screen">Tap the lemonade to drink it</string>
+    <string name="lemon_empty_screen">Tap the empty glass to start again</string>
+    <string name="lemon_tree_description">Lemon tree</string>
+    <string name="lemon_squeeze_description">Lemon</string>
+    <string name="lemon_drink_description">Glass of lemonade</string>
+    <string name="lemon_empty_description">Empty glass</string>
+</resources>
